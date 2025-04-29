@@ -37,6 +37,7 @@ A modern implementation of the classic Minesweeper game for iOS, built with Swif
 ## Building and Running
 
 Use the provided `buildandrun.sh` script to build and run the app on the iPhone 16 Pro Max simulator:
+Edit the project directory path to match your setup.
 
 ```bash
 ./buildandrun.sh
