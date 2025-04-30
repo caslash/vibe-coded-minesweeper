@@ -17,7 +17,7 @@ xcodebuild -scheme Minesweeper -destination "platform=iOS Simulator,name=iPhone 
 
 # Install the app
 echo "Installing the app..."
-xcrun simctl install booted "/Users/caslash/Library/Developer/Xcode/DerivedData/Minesweeper-baokmktfpdukxcedtueuveqrhxog/Build/Products/Debug-iphonesimulator/Minesweeper.app"
+xcrun simctl install booted "~/Library/Developer/Xcode/DerivedData/Minesweeper-baokmktfpdukxcedtueuveqrhxog/Build/Products/Debug-iphonesimulator/Minesweeper.app"
 
 # Launch the app
 echo "Launching the app..."
